@@ -3,3 +3,6 @@
 
 环境准备：
 nodeJS环境
+
+运行：
+npm run dev
